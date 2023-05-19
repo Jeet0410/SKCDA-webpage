@@ -20,14 +20,14 @@ Contributors
 NorthStar(Target) Customers:
 These are the primary focus of the website redesign. They're the individuals who will gain the most value from the website, and whose needs the site is designed to meet.
 
-Career Development Practitioners(CDPs) seeking membership
-Board Members
-Members
+* Career Development Practitioners(CDPs) seeking membership
+* Board Members
+* Members
 
 Carryover Customers:
 These are customers who may not be the primary focus of the website redesign but are still important users of the site and their needs should be considered.
 
-People interested in the career development field
-Organizations interested in group memberships
-General Public seeking information on career development
+* People interested in the career development field
+* Organizations interested in group memberships
+* General Public seeking information on career development
 

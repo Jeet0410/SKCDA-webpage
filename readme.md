@@ -17,7 +17,7 @@ Contributors
 
 # NorthStar & Carryover Customers
 
-NorthStar(Target) Customers:
+NorthStar Customers:
 These are the primary focus of the website redesign. They're the individuals who will gain the most value from the website, and whose needs the site is designed to meet.
 
 * Career Development Practitioners(CDPs) seeking membership

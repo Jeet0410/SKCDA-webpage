@@ -5,7 +5,7 @@
 
 The Saskatchewan Career Development Association is a professional group committed to aiding Career Development Practitioners (CDPs) throughout Saskatchewan. The SKCDA's purpose is to champion the career development sector, establish connections among its practitioners, and offer professional growth opportunities for CDPs.
 
-The SKCDA seeks a website that is redesign with its visual appereance and ease of navigation.Key features should include a easy to edit, membership re focused and more social networiking.
+The SKCDA seeks a website that is redesign with its visual appereance and ease of navigation.Key features should include a easy to edit, membership re focused and more social networking.
 
 Contributors
 

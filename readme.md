@@ -21,7 +21,7 @@ The Saskatchewan Career Development Association (SKCDA) seeks to overhaul their 
 </ul>
 
 <hr>
-<br>
+
 
 <h2><b>Team Name : <a href ='https://github.com/Jeet0410/SKCDA-webpage/'>Echeverias</a></b></h2>
 
@@ -44,7 +44,7 @@ Team Members :
 </ul>
 
 <hr>
-<br>
+
 
 <h2>
 <b>

@@ -87,8 +87,8 @@ Reuired Documents for Activity 2:
 
 - Folder containing all files related to [Low Fidelity Prototypes](https://github.com/Jeet0410/SKCDA-webpage/tree/main/Low-fidelity%20prototype)
     - [Jeet's Prototype](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Low-fidelity%20prototype/jeet_lo-fi_prototype.pdf)
-    - [Rayansh's SiteMap](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Low-fidelity%20prototype/rayansh_lo-fi_prototype.pdf)
-    - [Vishv's SiteMap](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Low-fidelity%20prototype/Vishv's%20low-fidality%20map.pdf)
+    - [Rayansh's Prototype](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Low-fidelity%20prototype/rayansh_lo-fi_prototype.pdf)
+    - [Vishv's Prototype](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Low-fidelity%20prototype/Vishv's%20low-fidality%20map.pdf)
 
 - [Low Fidelity Prototype Documentation](https://github.com/Jeet0410/SKCDA-webpage/blob/main/lo-fi%20documentation.pdf)
 

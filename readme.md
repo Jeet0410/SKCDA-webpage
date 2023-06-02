@@ -1,10 +1,26 @@
 # **[The Saskatchewan Career Development Association(SKCDA)](http://www.skcda.ca/) Website Redesign Project**
 
+|  **Table Of Contents**       | 
+| ------------- |
+| *[Project Summary](#project-summary)*  | 
+| *[Team Name](#team-name--echeverias)*   | 
+| *[Team Members](#team-members)* | 
+| *[NorthStar Customers](#northstar-customers)* |
+| *[Caaryover Customers](#carryover-customers)* |
+| *[Project Assumption](#project-assumptions)* |
+| *[Project Constraints](#project-constraints)* |
+| *[Project Activity #1 Summary](#project-activity-1-summary)* |
+| *[Project Activity #2 Summary](#project-activity-2-summary)* |
+| *[Project Activity #3 Summary](#project-activity-3-summary)* |
+
+
+---
+
 ## **Project Summary**
 
-- The Saskatchewan Career Development Association is a professional group committed to aiding Career Development Practitioners (CDPs) throughout Saskatchewan. The SKCDA's purpose is to champion the career development sector, establish connections among its practitioners, and offer professional growth opportunities for CDPs.
+- [The Saskatchewan Career Development Association](http://www.skcda.ca/) is a professional group committed to aiding Career Development Practitioners (CDPs) throughout Saskatchewan. The SKCDA's purpose is to champion the career development sector, establish connections among its practitioners, and offer professional growth opportunities for CDPs.
 
-- The Saskatchewan Career Development Association (SKCDA) seeks to overhaul their current website, enhancing its visual appeal, ease of navigation, and integrating key features, with a focus on improving the member experience. This project represents an opportunity to leverage innovative web design strategies to inspire action around community needs.
+- [The Saskatchewan Career Development Association (SKCDA)](http://www.skcda.ca/) seeks to overhaul their current website, enhancing its visual appeal, ease of navigation, and integrating key features, with a focus on improving the member experience. This project represents an opportunity to leverage innovative web design strategies to inspire action around community needs.
 
 ---
 
@@ -95,3 +111,13 @@ Reuired Documents for Activity 2:
 - [Updated Story Map](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Story%20Map/Updated_Story%20Map.png)
 
 - [Customer Notes for Activity #2](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Customer%20Notes/activity%202-%20Customer%20Notes.pdf)
+
+------
+
+## **Project Activity #3 Summary**
+
+Using Figma (industry-standard prototyping software) or Penpot (an Open Source alternative), construct a high-fidelity prototype that explores imagery, colour, typography, responsiveness (mobile/desktop), and fully interactive experiences, as indicated below. Update the user story mapping illustrating key Minimum Viable Products as needed.
+
+Required Documents for Activity 3:
+
+

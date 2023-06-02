@@ -120,4 +120,12 @@ Using Figma (industry-standard prototyping software) or Penpot (an Open Source a
 
 Required Documents for Activity 3:
 
+- Folder containing all files related to [High Fidelity Prototypes](https://github.com/Jeet0410/SKCDA-webpage/tree/main/High-fidelity%20prototype)
+    - [Desktop High Fidelity Prototype (in PDF)](https://github.com/Jeet0410/SKCDA-webpage/blob/main/High-fidelity%20prototype/Hi-Fi%20Prototype%20Desktop-compressed.pdf)
+    - [Mobile High Fidelity Prototype (in PDF)](https://github.com/Jeet0410/SKCDA-webpage/blob/main/High-fidelity%20prototype/Hi-Fi%20Prototype%20Mobile.pdf)
+    - [Desktop High Fidelity Prototype (in .fig)](https://github.com/Jeet0410/SKCDA-webpage/blob/main/High-fidelity%20prototype/Hi-Fi%20Prototype%20Desktop.fig)
+    - [Mobile High Fidelity Prototype (in .fig)](https://github.com/Jeet0410/SKCDA-webpage/blob/main/High-fidelity%20prototype/Hi-Fi%20Prototype%20Mobile.fig)
+
+- [High Fidelity Prototype Design Ideas Documentation](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Documents/Activity%203%20hi-fi%20design%20ideas%20documentation.pdf)
+
 

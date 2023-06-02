@@ -106,7 +106,7 @@ Reuired Documents for Activity 2:
     - [Rayansh's Prototype](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Low-fidelity%20prototype/rayansh_lo-fi_prototype.pdf)
     - [Vishv's Prototype](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Low-fidelity%20prototype/Vishv's%20low-fidality%20map.pdf)
 
-- [Low Fidelity Prototype Documentation](https://github.com/Jeet0410/SKCDA-webpage/blob/main/lo-fi%20documentation.pdf)
+- [Low Fidelity Prototype Design Ideas Documentation](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Low-fidelity%20prototype/lo-fi%20design%20ideas%20documentation.pdf)
 
 - [Updated Story Map](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Story%20Map/Updated_Story%20Map.png)
 

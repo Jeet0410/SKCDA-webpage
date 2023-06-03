@@ -84,7 +84,7 @@ Required Documents for Activity 1:
 
 - [Affinity Diagram](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Affinity%20Diagram.jpg)
 
-- [Story Map]([https://github.com/Jeet0410/SKCDA-webpage/blob/main/Story%20Map/story-map.jpg](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Story%20Map/Activity_1_storyMap.jpg))
+- [Story Map](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Story%20Map/Activity_1_storyMap.jpg))
 
 - [Customer Notes for Activity #1](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Customer%20Notes/activity%201-%20customer%20notes.pdf)
 

@@ -128,4 +128,14 @@ Required Documents for Activity 3:
 
 - [High Fidelity Prototype Design Ideas Documentation](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Documents/Activity%203%20hi-fi%20design%20ideas%20documentation.pdf)
 
+- [Formative Usability Questionnaire](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Documents/Activity%203%20formative%20questionnaire.pdf)
+
+- [Analysis of the Usability Data](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Documents/Activity%203%20Analysis%20Usability%20Data.pdf)
+
+- [Updated Story Map](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Story%20Map/Activity_3_Updated_StoryMap.jpg)
+
+- [Customer Notes for Activity #3](https://github.com/Jeet0410/SKCDA-webpage/blob/main/Customer%20Notes/activity%203-%20Customer%20Notes.pdf)
+
+------
+
 

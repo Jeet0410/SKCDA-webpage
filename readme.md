@@ -53,9 +53,6 @@ _These are customers who may not be the primary focus of the website redesign bu
 - Members
 - Volunteers such as professionals
 - Board Members
-- People interested in the career development field
-- Organizations interested in group memberships
-- General Public seeking information on career development
 
 ---
 

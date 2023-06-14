@@ -42,14 +42,17 @@
 
 _These are the primary focus of the website redesign. They're the individuals who will gain the most value from the website, and whose needs the site is designed to meet._
 
-- Career Development Practitioners(CDPs) seeking membership
-- Board Members
-- Members
+- People interested in the career development field(CCDP Designation)
+- Recent Graduates
+- Interested professionals in changing jobs 
 
 ### **Carryover Customers:**
 
 _These are customers who may not be the primary focus of the website redesign but are still important users of the site and their needs should be considered._
 
+- Members
+- Volunteers such as professionals
+- Board Members
 - People interested in the career development field
 - Organizations interested in group memberships
 - General Public seeking information on career development

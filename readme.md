@@ -9,9 +9,10 @@
 | *[Caaryover Customers](#carryover-customers)* |
 | *[Project Assumption](#project-assumptions)* |
 | *[Project Constraints](#project-constraints)* |
-| *[Project Activity #1 Summary](#project-activity-1-summary)* |
-| *[Project Activity #2 Summary](#project-activity-2-summary)* |
-| *[Project Activity #3 Summary](#project-activity-3-summary)* |
+| *[Empathy Disussions and Affinity diagraming (Project Activity #1 Summary)](#compiling-project-insights-and-mvp-user-story-mapping-through-empathy-mapping-and-affinity-diagramming-activities-project-activity-1)* |
+| *[Exploring Lo-Fi Prototypes (Project Activity #2 Summary)](#site-mapping-and-low-fidelity-interface-design-project-activity-2)* |
+| *[Exploring Hi-Fi Prototypes (Project Activity #3 Summary)](#high-fidelity-prototype-creation-using-figma-project-activity-3)* |
+| *[Wordpress Website Solution (Project Activity #4 Summary)](#wordpress-design-solution-website-project-activity-4)* |
 
 
 ---
@@ -72,7 +73,7 @@ _These are customers who may not be the primary focus of the website redesign bu
 
 ---
 
-## **Project Activity #1 Summary**
+## **Compiling Project Insights and MVP User Story Mapping through Empathy Mapping and Affinity Diagramming Activities (Project Activity #1)**
 
 Based on data, information, and knowledge gathered from the project discussion teams will compile project insights via affinity diagramming and empathy mapping activities and create a user story mapping illustrating key Minimum Viable Products.
 
@@ -90,7 +91,7 @@ Required Documents for Activity 1:
 
 ---
 
-## **Project Activity #2 Summary**
+## **Site Mapping and Low-Fidelity Interface Design (Project Activity #2)**
 
 Propose site navigations/site maps as well as low-fidelity interface designs (paper and pencil). Update the user story mapping illustrating key Minimum Viable Products as needed.
 
@@ -114,7 +115,7 @@ Reuired Documents for Activity 2:
 
 ------
 
-## **Project Activity #3 Summary**
+## **High-Fidelity Prototype Creation using Figma (Project Activity #3)**
 
 Using Figma (industry-standard prototyping software) or Penpot (an Open Source alternative), construct a high-fidelity prototype that explores imagery, colour, typography, responsiveness (mobile/desktop), and fully interactive experiences, as indicated below. Update the user story mapping illustrating key Minimum Viable Products as needed.
 
@@ -138,3 +139,32 @@ Required Documents for Activity 3:
 
 ------
 
+## **WordPress Design Solution website (Project Activity #4)**
+
+Using our team's refined high-fidelity prototype as a guide, design and develop a WordPress solution
+
+Required Documents for Activity 4:
+
+- [*Click Here*](https://echeverias.softsys.ca/) to open our team's redesigned WordPress site for SKCDA
+
+
+- [Final Project Presentation](/Documents/SKCDA-WEB%20REDESIGN.pdf)
+
+- Wordpress Site Backup :  Use the following links to download the WordPress Site Backup
+    - [*Echeverias Wordpress Backup*](http://download.uregina.ca/DownloadAttachment/87aP2ntAdY85LtXgRrG6pOWiq6f2jtjlaZQu8lWKIChXF1u6PHNvo9qk7Y7vxM2y/) (UR's server) 
+        - (*Note: this link will only last for 30 days, so if it's not working try Drive to download*)
+    - [*Echeverias Wordpress Backup*](https://drive.google.com/file/d/1pZrfDS0qq-bwfdsVM93AdaZ8RElwrOgE/view?usp=sharing) (Google Drive)
+
+
+
+- [Project Report-out & Lessons learned](/Documents/project%20report%20Echeverias.pdf)
+
+
+- [Customer Notes for Activity #4](/Customer%20Notes/activity%204-%20Customer%20Notes.pdf)
+
+----
+
+### Special Thanks to Project Sponsor : [Dr. Tim Macaig](https://www.maciag.ca/) (ENSE 271 Lecturer) 
+
+
+### Special Thanks to the SKCDA team (Charlene and Colene)
